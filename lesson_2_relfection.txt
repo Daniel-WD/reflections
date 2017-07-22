@@ -26,3 +26,17 @@ have one commit per logical change?
     directory, so I can see what changed. Then I can
     choice what I want to commit for each logical
     change.
+
+What are some situations when branches would be 
+helpful in keeping your history organized? How 
+would branches help?
+
+    Branches help me to make other versions of my
+    whole project without changing the main project
+    branch. So its easyer to manage the history of
+    my project.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams show me what branches I have created
+    at a specific time
