@@ -1,0 +1,7 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+
+    When I initialize a Git repository, a hidden 
+    .git file will be created and its necessary 
+    to save meta-data for Git.
+
