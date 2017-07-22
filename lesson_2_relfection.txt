@@ -5,3 +5,24 @@ Why do you need to do it?
     .git file will be created and its necessary 
     to save meta-data for Git.
 
+How is the staging area different from the 
+working directory and the repository? What
+value do you think it offers?
+
+    The staging area contains the files, which
+    should be commited in the future in the
+    repository. These files were chosen from the
+    working directory.
+    So the repository contains the commits for the
+    files in the staging area and you can choose
+    these files from the working directory.
+    This concept let's you the freedom to choose, 
+    which files to commit in the repository.
+
+How can you use the staging area to make sure you 
+have one commit per logical change?
+
+    I can compare the staging area with the working
+    directory, so I can see what changed. Then I can
+    choice what I want to commit for each logical
+    change.
