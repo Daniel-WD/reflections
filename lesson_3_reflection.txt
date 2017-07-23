@@ -16,3 +16,7 @@ one instead of another?
     Clones give me the opportunity to get a repository, saved on GitHub, to my pc.
     Branches are parts of a git repository to manage different version branches. They
     are also available on GitHub.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    I know in which commits my master branch is different from the remote branch.
