@@ -7,3 +7,12 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 
     ..., so I have better control of what is uploaded on GitHub and which files arent
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+    Forks are only available on GitHub. I can create a fork to clone a repository from
+    another user to my account. So they are only available online on GitHub.
+    Clones give me the opportunity to get a repository, saved on GitHub, to my pc.
+    Branches are parts of a git repository to manage different version branches. They
+    are also available on GitHub.
